@@ -53,7 +53,7 @@ I’m currently planning and building out the following:
 
 Feel free to reach out — I’m always open to connecting with others in finance, quant, and engineering.
 
-- **LinkedIn:** *Add your URL once username is updated*  
+- **LinkedIn:** https://www.linkedin.com/in/brayden-blackley/
 - **Youtube:** 
 - **X (Twitter):** 
 - **Portfolio:**
